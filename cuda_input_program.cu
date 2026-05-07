@@ -125,3 +125,5 @@ int main()
 
     return 0;
 }
+
+/*nvcc cuda_input_program.cu -o cuda_program*/
